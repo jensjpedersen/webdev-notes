@@ -9,10 +9,10 @@ Meh: to much car honking...
 * 12hours part1 hours + 6 hours part2
 
 **Lectures**
-* [visualization_inspiration](visualization_inspiration)
-* [svg_fundamentals](svg_fundamentals)
+* [visualization_inspiration](visualization_inspiration.md)
+* [svg_fundamentals](svg_fundamentals.md)
 
-* [exercises](exercises) 
+* [exercises](exercises.md) 
 
 
 
