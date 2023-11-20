@@ -1,27 +1,27 @@
 
 # TODO: 
-* [bug_header](bug_header)
-* [bug_dynamic_image](bug_dynamic_image)
+* [bug_header](bug_header.md)
+* [bug_dynamic_image](bug_dynamic_image.md)
 
 # HTML
 **Cheat sheets**
 * [CSS Cheat Sheet - Interactive, not a PDF | HTMLCheatSheet.com](https://htmlcheatsheet.com/css/)
 
 **Basics**
-* [structure](structure)
-* [basics](basic)
-* [head](head)
-* [html_file](html_file)
-* [attributes](attributes)
-* [html_elements](html_elements)
-* [html_table](html_table)
-* [html_dropdown](html_dropdown)
-* [html_events](html_events)
+* [structure](structure.md)
+* [basics](basic.md)
+* [head](head.md)
+* [html_file](html_file.md)
+* [attributes](attributes.md)
+* [html_elements](html_elements.md)
+* [html_table](html_table.md)
+* [html_dropdown](html_dropdown.md)
+* [html_events](html_events.md)
 
 **Tags**
-* [video](video)
-* [links](links)
-* [images](images)
+* [video](video.md)
+* [links](links.md)
+* [images](images.md)
 
 
 

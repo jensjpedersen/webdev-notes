@@ -7,30 +7,30 @@
 * [Grid Garden - A game for learning CSS grid](https://cssgridgarden.com/)
 
 **Basic**
-* [css](css)
-* [css_sane_defaults](css_sane_defaults)
+* [css](css.md)
+* [css_sane_defaults](css_sane_defaults.md)
 * 
-* [css_properties](css_properties)
-* [attributes_vs_properties](attributes_vs_properties)
-* [css_selectors](css_selectors)
+* [css_properties](css_properties.md)
+* [attributes_vs_properties](attributes_vs_properties.md)
+* [css_selectors](css_selectors.md)
 
-* [css_font](css_font)
-* [size](size)
-* [css_effects](css_effects)
-* [css_sudo_classes](css_sudo_classes) - special state of element
-* [css_position](css_position)
-* [box_model](box_model)
+* [css_font](css_font.md)
+* [size](size.md)
+* [css_effects](css_effects.md)
+* [css_sudo_classes](css_sudo_classes.md) - special state of element
+* [css_position](css_position.md)
+* [box_model](box_model.md)
 
-* [flex](flex)
-* [css_grid](css_grid)
-* [css_table](css_table)
-* [css_images](css_images)
+* [flex](flex.md)
+* [css_grid](css_grid.md)
+* [css_table](css_table.md)
+* [css_images](css_images.md)
 
 
 **Etc**
-* [awesome_trix](awesome_trix)
-* [css_mouse_effects](css_mouse_effects)
+* [awesome_trix](awesome_trix.md)
+* [css_mouse_effects](css_mouse_effects.md)
 
 **Tools**
-* [colors](colors)
-* [tailwind](tailwind)
+* [colors](colors.md)
+* [tailwind](tailwind.md)

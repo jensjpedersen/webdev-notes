@@ -1,31 +1,31 @@
 
 # Wiki
-* [basics](basics)
-* [style_guide](style_guide)
-* [console_tool](console_tool)
-* [array](array)
-* [variables](variables)
-* [conditionals](conditionals)
-* [shorthand](shorthand)
-* [math](math)
-* [functions](functions)
-* [arrow_functions](arrow_functions)
-* [anonymous_functions](anonymous_functions)
-* [loops](loops)
+* [basics](basics.md)
+* [style_guide](style_guide.md)
+* [console_tool](console_tool.md)
+* [array](array.md)
+* [variables](variables.md)
+* [conditionals](conditionals.md)
+* [shorthand](shorthand.md)
+* [math](math.md)
+* [functions](functions.md)
+* [arrow_functions](arrow_functions.md)
+* [anonymous_functions](anonymous_functions.md)
+* [loops](loops.md)
 
 **DOM**
-* [dom_manipulation](dom_manipulation)
-* [dom_text](dom_text)
+* [dom_manipulation](dom_manipulation.md)
+* [dom_text](dom_text.md)
 
 **Types**
-* [types](types)
-* [strings](strings)
-* [numbers](numbers)
-* [arrays](arrays)
+* [types](types.md)
+* [strings](strings.md)
+* [numbers](numbers.md)
+* [arrays](arrays.md)
 
 **Operators**
-* [typeof](typeof)
-* [spread_operator](spread_operator)
+* [typeof](typeof.md)
+* [spread_operator](spread_operator.md)
 
 # Browserify
 * require in browser
@@ -35,20 +35,19 @@
 # Setup basic project
 npm init -y
 
-* [express](express)
-* [socket](socket)
+* [express](express.md)
+* [socket](socket.md)
 
 
 # Wiki
 
 # Debugging
-* [browser_dev_tools](browser_dev_tools)
-* [print to console](print_to_console)
-* [inspect](inspect)
+* [print to console](print_to_console.md)
+* [inspect](inspect.md)
 
 
 # Server
-* [live_server](live_server) - cool stuff
+* [live_server](live_server.md) - cool stuff
 
 #
-* [D3](D3/index)
+* [D3](D3/index.md)
