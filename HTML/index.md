@@ -18,6 +18,12 @@
 * [html_dropdown](html_dropdown.md)
 * [html_events](html_events.md)
 
+**Forms**
+* [form](form.md)
+* [input](form.md)
+* [label](form.md)
+
+
 **Tags**
 * [video](video.md)
 * [links](links.md)
