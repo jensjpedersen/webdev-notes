@@ -9,6 +9,7 @@
 **Basic**
 * [css](css.md)
 * [css_sane_defaults](css_sane_defaults.md)
+* [variables](variables.md)
 * 
 * [css_properties](css_properties.md)
 * [attributes_vs_properties](attributes_vs_properties.md)
@@ -25,6 +26,8 @@
 * [css_grid](css_grid.md)
 * [css_table](css_table.md)
 * [css_images](css_images.md)
+* [media_queries](media_queries.md)
+* [operators](operators.md)
 
 
 **Etc**
@@ -34,3 +37,5 @@
 **Tools**
 * [colors](colors.md)
 * [tailwind](tailwind.md)
+* [scss](scss.md)
+* [scss_compiler](scss_compiler.md)

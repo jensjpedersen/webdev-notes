@@ -1,4 +1,6 @@
 
+
+
 # Links
 * [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
 * [Flexbox Defense](http://www.flexboxdefense.com/)
@@ -42,6 +44,8 @@
 * align-content - aligns lines of content along the cross axis. Only works if there are multiple lines of content. 
     * values: flex-start, flex-end, center, space-between, space-around, stretch
 
+* `place-content` - is a shorthand for `align-content` and `justify-content`
+
 ## align-content - 
 * **how multiple lines are spaced apart from each other.**
 * VS: align-items and justify-content - works on individual items
@@ -66,6 +70,8 @@ Består av:
 
 
 # Assign properties to flex items
+* `flex-grow` - Specifies how much the item will grow relative to the rest of
+  the flexible items inside the same container.
 
 ## flex: value
 * endre størrelse på et spesifikt flex item
