@@ -10,7 +10,7 @@
 **Basics**
 * [structure](structure.md)
 * [basics](basic.md)
-* [head](head.md)
+* [css](css.md)
 * [html_file](html_file.md)
 * [attributes](attributes.md)
 * [html_elements](html_elements.md)
