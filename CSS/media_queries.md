@@ -2,6 +2,22 @@ TODO:
 * not|only 
 * meta tag -  
 
+# Tips
+* use clamp for responsive sizing
+* resize margin with media queries
+
+# Viewport meta tag
+* Include in the `<head>` section of the HTML document
+XXX?? - what does it do 
+* Include viewport meta tag to make media queries work on mobile devices 
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+The viewport meta tag is crucial for making web pages responsive on different
+devices. It helps ensure that the content adapts to the screen size and
+provides a consistent user experience across various devices, such as desktops,
+tablets, and smartphones.
+
 
 # Media Queries
 * It uses the @media rule to include a block of CSS properties only if a certain condition is true.
@@ -17,11 +33,28 @@ TODO:
     CSS-Code;
 }
 ```
+* only (default): Not necessary. Mainly used to prevent older browsers that don't
+  support media queries from applying the styles within the @media rule. In
+  modern browsers, removing only won't have a significant impact.
 * mediatype: all, print, screen, speech
 * media feature: width, height, orientation, aspect-ratio, resolution, etc.
 
 
-## Operators
+## Common example
+* Feature is applied until when size >= 481px
+```css
+$media screen and (min-width: 481px) {
+    // css code
+}
+```
+# Media features
+**Media features**
+* min-width
+* orientation: portrait or landscape
+* min-aspect-ratio: min width / min height
+* etc. 
+
+# Operators
 * `not | and | only` - Logical operators can be used to compose a complex media query
 * `,` - You can also combine multiple media queries into a single rule by
 separating them with commas.
@@ -31,9 +64,7 @@ separating them with commas.
 * target multiple devices - `$media screen, print { ... }` 
 
 ## Targeting media features
-* "min-" or "max-" prefix can be used to target range features
-
-**media features**
+* "min-" or "max-" prefix can be used to target range features: `max-width, min-width` 
 
 ## Targeting examples
 * `and` - To combine multiple features - `@media (min-width: 30em) and (orientation: landscape) {}` 
@@ -42,38 +73,6 @@ separating them with commas.
     `@media screen and (min-width: 30em) and (orientation: landscape) { }` 
 * `,` - to match any of various media types, features, or states: 
     `@media (min-height: 680px), screen and (orientation: portrait) { }` 
-
-
-
-
-
-
-* need meta tag in head
-```html
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-```
-* Importan when working with responsive design
-
-
-
-
-
-## Media Queries syntax
-
-```css
-$media screen and (min-width: 481px) {
-    // css code
-}
-```
-* applied until 480px
-
-
-
-**Parameters**
-* orientation: portrait or landscape
-* min-aspect-ratio: min width / min height
-
-
 
 
 # Example - Responsive Web Design

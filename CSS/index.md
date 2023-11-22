@@ -26,8 +26,12 @@
 * [css_grid](css_grid.md)
 * [css_table](css_table.md)
 * [css_images](css_images.md)
-* [media_queries](media_queries.md)
 * [operators](operators.md)
+* [animation](animation.md)
+
+**Dynamic design**
+* [media_queries](media_queries.md)
+* [clamp](clamp.md)
 
 
 **Etc**
