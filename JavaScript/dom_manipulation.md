@@ -7,17 +7,6 @@
 * element.value - returns the value of an element
 * element.innerHTML - returns the HTML content of an element
 
-# getElementById
-* Kan hente et element fra et html dokument
-* Id må først kjøres og defineres i html dokument
-
-`const text = document.getElementById("text")` 
-
-
-* skriv defer (kjører script etter at html er lastet inn)
-```html
-<script src=script.js defer></script>
-```
 
 
 # The HTML DOM (Document Object Model)

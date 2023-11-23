@@ -1,6 +1,7 @@
 
 # Wiki
 * [basics](basics.md)
+* [common_errors](common_errors.md)
 * [style_guide](style_guide.md)
 * [array](array.md)
 * [variables](variables.md)
@@ -11,9 +12,17 @@
 * [anonymous_functions](anonymous_functions.md)
 * [loops](loops.md)
 
+**Callback and Array methods**
+* [callback](callback.md)
+* [setTimeout](setTimeout.md)
+* [forEach](forEach.md)
+* [map](map.md)
+
 **DOM**
 * [dom_manipulation](dom_manipulation.md)
 * [dom_text](dom_text.md)
+* [dom_create_element](dom_create_element.md)
+* [dom_get_element](dom_get_element.md)
 
 **Types**
 * [types](types.md)

@@ -55,6 +55,11 @@ array = [1, 2, 3, 4, 5]
 for (let e of array ) { } // 1, 2, 3, 4, 5
 ```
 
+## Iterate thourgh index + element
+```javascript
+for (let [index, element] of array.entries()) { }
+```
+
 # For each loop
 * Can also use map 
 
