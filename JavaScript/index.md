@@ -17,6 +17,7 @@
 * [setTimeout](setTimeout.md)
 * [forEach](forEach.md)
 * [map](map.md)
+* [filter](filter.md)
 
 **DOM**
 * [dom_manipulation](dom_manipulation.md)
