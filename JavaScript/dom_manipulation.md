@@ -1,6 +1,7 @@
 
 # DOM 
 * is created when the browser loads a web page
+* nodes are elements in the dom - created by the browser when it parses the html
 
 # Usful DOM properties
 * element.textContent - returns the text content of an element

@@ -32,6 +32,7 @@ This is my link collection:
 
 ## element.innerText
 result:
+```
 This is my link collection:Bye bye Borland Welcome to Micro Focus
 ```
 
