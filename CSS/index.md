@@ -22,6 +22,7 @@
 * [css_sudo_classes](css_sudo_classes.md) - special state of element
 * [css_position](css_position.md)
 * [box_model](box_model.md)
+* [gradients](gradients.md)
 
 * [flex](flex.md)
 * [css_grid](css_grid.md)
