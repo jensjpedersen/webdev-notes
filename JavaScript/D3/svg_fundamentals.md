@@ -1,4 +1,8 @@
 
+
+# Bugs
+* diable scrollbar on svg - `overflow: hidden;`  
+
 # SVG 
 * scalable vector graphics
 
@@ -65,3 +69,14 @@ The following commands are available for path data:
 
 **Upper case** - absolute position
 **Lower case** - relative position (m, l, h, v, c, s, q, t, a, z)
+
+
+
+
+
+# Exercise
+Make something with SVG
+
+
+
+

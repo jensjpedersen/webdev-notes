@@ -1,6 +1,7 @@
 
 # Wiki
 * [basics](basics.md)
+* [trix](trix.md)
 * [common_errors](common_errors.md)
 * [style_guide](style_guide.md)
 * [array](array.md)
@@ -18,12 +19,16 @@
 * [forEach](forEach.md)
 * [map](map.md)
 * [filter](filter.md)
+* [reduce](reduce.md)
+* [event_listener](event_listener.md)
 
 **DOM**
 * [dom_manipulation](dom_manipulation.md)
 * [dom_text](dom_text.md)
 * [dom_create_element](dom_create_element.md)
 * [dom_get_element](dom_get_element.md)
+* [dom_events](dom_events.md)
+* [dom_css_classes](dom_css_classes.md)
 
 **Types**
 * [types](types.md)
@@ -42,6 +47,10 @@
 **Tools**
 * [Browserify](https://browserify.org/)
 * [live_server](live_server.md) 
+
+
+**Templates**
+* [dark_mode](dark_mode.md)
 
 **Libraries**
 * [D3](D3/index.md)

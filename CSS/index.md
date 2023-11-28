@@ -14,6 +14,7 @@
 * [css_properties](css_properties.md)
 * [attributes_vs_properties](attributes_vs_properties.md)
 * [css_selectors](css_selectors.md)
+* [display](display.md)
 
 * [css_font](css_font.md)
 * [size](size.md)

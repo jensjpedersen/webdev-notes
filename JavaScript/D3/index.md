@@ -1,18 +1,13 @@
 # Wiki  
 [Data Visualization with D3 – Full Course for Beginners 2022 - YouTube](https://www.youtube.com/watch?v=xkBheRZTkaw)
 * 20 hours
-* continue from ep2 1:05
-
-
-[Data Visualization with D3, JavaScript, React - Full Course 2021 - YouTube](https://www.youtube.com/watch?v=2LhoCfjm8R4)
-Meh: to much car honking...
-* 12hours part1 hours + 6 hours part2
+* continue from ep2 2:00
 
 **Lectures**
 * [visualization_inspiration](visualization_inspiration.md)
 * [svg_fundamentals](svg_fundamentals.md)
+* [pseudo_visualizations](pseudo_visualizations.md)
 
-* [exercises](exercises.md) 
 
 
 
