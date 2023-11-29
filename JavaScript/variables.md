@@ -12,15 +12,19 @@
 
 ## Variables
 * Mutable variable
-`let var` 
+`let variabel` 
 
 * Konstant variabel 
-`const var` 
+`const variabel` 
+
+**Let and const are block scoped**
 
 Hvis du prøver å redefinerer `const` -> gir TypeError
 
 **Ikke bruk var**
 * ble brukt i gammel javascript, pre 2015
+* var is closure scoped, e.g. function scoped. 
+
 
 ## Symantic
 Use camelCase for variable names

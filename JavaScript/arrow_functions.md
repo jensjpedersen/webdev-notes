@@ -1,7 +1,7 @@
 
 # Arrow function
 * **The function is nameless but is assigned to a variable, hence use let or const keyword.**
-* **No need for return** - If the function has only **one statement**, and the statement returns a value, you can remove the brackets and the return keyword.
+* **No need for return** (implicit return) - If the function has only **one statement**, and the statement returns a value, you can remove the brackets and the return keyword.
 * **No need for curly braces** - If the function has only one statement, you can remove the brackets.
 
 # Arrow function vs normal function
@@ -27,6 +27,17 @@ hello = () => "Hello World!";
 
 ```javascript
 hello = val => "Hello " + val;
+```
+
+# Return object from arrow function
+* problem: object literal is interpreted as a block of code.
+```javascript
+let getBook = (id) => {id: id, name: 'Harry Potter'};
+```
+
+* solution: wrap the object literal in parentheses.
+```javascript
+let getBook = (id) => ({id: id, name: 'Harry Potter'});
 ```
 
 

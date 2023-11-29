@@ -52,6 +52,7 @@ or multiple lines
 
 # Keyframes 
 
+* `from`  is not necessary, because the animation will start from the current style (red).
 
 ```css
 /* The animation code */

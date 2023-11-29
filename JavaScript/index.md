@@ -35,10 +35,15 @@
 * [strings](strings.md)
 * [numbers](numbers.md)
 * [arrays](arrays.md)
+* [objects](objects.md)
 
 **Operators**
 * [typeof](typeof.md)
 * [spread_operator](spread_operator.md)
+
+
+**The Browser Object Model (BOM)**
+* [window](window.md)
 
 **Debugging**
 * [print to console](print_to_console.md)

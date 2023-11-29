@@ -30,6 +30,7 @@
 * [css_images](css_images.md)
 * [operators](operators.md)
 * [animation](animation.md)
+* [background](background.md)
 
 **Dynamic design**
 * [media_queries](media_queries.md)

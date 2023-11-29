@@ -1,5 +1,6 @@
 
-# Pseudo visualisations - Aproximating visualisations
+
+# EP2 - Pseudo visualisations - Aproximating visualisations
 
 
 
@@ -12,3 +13,29 @@
 
 ## Sudo bar chart
 * place rectangles in a frame
+
+## Line chart 
+
+
+
+
+
+# Precedence of SVG attributes and Styles 
+* Attribute: 
+```html
+<rect x="0" y="0" width="100" height="100" fill="red" stroke="black"/>
+```
+
+All css (inline, internal and external style sheet) takes precedence over SVG attributes.
+
+* Inline css: 
+```html
+<rect x="0" y="0" width="100" height="100" style="fill: blue;" stroke="black"/>
+```
+
+
+This rect is blue, not red: 
+```html
+<rect x="0" y="0" width="100" height="100" style="fill: blue;" fill="red" stroke="black"/>
+```
+
