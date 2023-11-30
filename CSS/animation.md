@@ -15,7 +15,7 @@ animation: name duration timing-function delay iteration-count direction fill-mo
 or multiple lines 
 
 * animation-name - Name of the animation. Targeted by `@keyframes` rule. 
-* animation-duration 
+* animation-duration
 * animation-timing-function 
     * ease - Specifies an animation with a slow start, then fast, then end slowly (this is default)
     * linear - Specifies an animation with the same speed from start to end
@@ -24,8 +24,9 @@ or multiple lines
     * ease-in-out - Specifies an animation with a slow start and end
     * cubic-bezier(n,n,n,n) - Lets you define your own values in a cubic-bezier function
   
-* animation-delay: 
-    * animation-iteration-count 
+* animation-delay 
+
+* animation-iteration-count:
     * number	A number that defines how many times an animation should be played. Default value is 1	
     * infinite	Specifies that the animation should be played infinite times (for ever)	
     * initial	Sets this property to its default value. Read about initial	

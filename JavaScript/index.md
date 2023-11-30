@@ -13,6 +13,13 @@
 * [anonymous_functions](anonymous_functions.md)
 * [loops](loops.md)
 
+**Organizing code**
+* [classes](classes.md)
+* [modules](modules.md)
+
+**Design**
+* [modal_box](modal_box.md)
+
 **Callback and Array methods**
 * [callback](callback.md)
 * [setTimeout](setTimeout.md)

@@ -1,18 +1,20 @@
 # Wiki  
 [Data Visualization with D3 – Full Course for Beginners 2022 - YouTube](https://www.youtube.com/watch?v=xkBheRZTkaw)
 * 20 hours
-* continue from ep2 3:22
+* continue from ep2 3:55
 
 **Lectures**
 * [visualization_inspiration](visualization_inspiration.md)
 * [svg_fundamentals](svg_fundamentals.md)
 * [pseudo_visualizations](pseudo_visualizations.md)
 * [dom_manipulation](dom_manipulation.md) - creating svg elements with js, svg mask
-
+* [d3_intro](d3_intro.md)
 
 
 **Wiki**
 * [svg](svg.md)
+* [svg_mask](svg_mask.md)
+* [d3_selection](d3_selection.md)
 
 
 

@@ -1,4 +1,8 @@
 
+# SVG
+* **All SVG attributes can be set as CSS properties.**
+
+
 # Create svg with js 
 ```javascript
 const svg_type = document.createElementNS('http://www.w3.org/2000/svg', 'svg_type');
