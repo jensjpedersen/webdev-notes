@@ -12,6 +12,11 @@
 * [arrow_functions](arrow_functions.md)
 * [anonymous_functions](anonymous_functions.md)
 * [loops](loops.md)
+* [read_text_file](read_text_file.md)
+* [regex](regex.md)
+
+**Node**
+* [node_read_file](node_read_file.md)
 
 **Organizing code**
 * [classes](classes.md)

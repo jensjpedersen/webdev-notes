@@ -46,3 +46,5 @@
 * [tailwind](tailwind.md)
 * [scss](scss.md)
 * [scss_compiler](scss_compiler.md)
+* [scss_structure](scss_structure.md)
+* [scss_mixins](scss_mixins.md)

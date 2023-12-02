@@ -2,13 +2,45 @@
 
 
 # Reduce
-syntax: 
+
+## Syntax
+
 ```javascript
 reduce(callbackFn)
 reduce(callbackFn, initialValue)
 array.reduce(function(total, currentValue, currentIndex, arr), initialValue)
 ```
 
+
+
+## Logic
+### No initialValue
+Starts on index 1, then:
+* prev value = arr[0] 
+* curr value = arr[1]
+
+Next iteration: 
+* prev value = last return value
+syntax: 
+
+```javascript
+const val = arr.reduce( function (prev, curr, index) {
+    console.log('index:', index, prev, curr);
+    return prev + curr
+})
+```
+
+###  If initialValue is specified
+If you don't provide an initial value, the first element of the array is used
+as the initial value, and the iteration starts from the second element.
+**Else, the first iteration starts from the first element.**
+
+
+
+
+
+
+## Sum of array
 ```javascript
 let arr = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 const initialValue = 0; 
