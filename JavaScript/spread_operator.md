@@ -1,6 +1,8 @@
 
 # Spread operator
 * `...` is the spread operator
+* Used to unpack the elements of an array or object:
+    * `[e1, e2, e3] => e1, e2, e3` 
 * Used to quickly copy all or part of an existing array or object into another array or object.
 * It expands a string into an array of characters
 * Works on **strings, arrays, and objects**

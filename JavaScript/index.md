@@ -4,7 +4,6 @@
 * [trix](trix.md)
 * [common_errors](common_errors.md)
 * [style_guide](style_guide.md)
-* [array](array.md)
 * [variables](variables.md)
 * [conditionals](conditionals.md)
 * [shorthand](shorthand.md)
@@ -12,11 +11,11 @@
 * [arrow_functions](arrow_functions.md)
 * [anonymous_functions](anonymous_functions.md)
 * [loops](loops.md)
-* [read_text_file](read_text_file.md)
 * [regex](regex.md)
 
 **Node**
 * [node_read_file](node_read_file.md)
+* [service](service.md)
 
 **Organizing code**
 * [classes](classes.md)
@@ -33,6 +32,12 @@
 * [filter](filter.md)
 * [reduce](reduce.md)
 * [event_listener](event_listener.md)
+* [every](every.md)
+* [some](some.md)
+* find
+* findIndex
+* [findLastIndex](findLastIndex.md)
+* sort
 
 **DOM**
 * [dom_manipulation](dom_manipulation.md)
@@ -48,11 +53,15 @@
 * [numbers](numbers.md)
 * [arrays](arrays.md)
 * [objects](objects.md)
+* [dates](dates.md)
 
 **Operators**
 * [typeof](typeof.md)
 * [spread_operator](spread_operator.md)
 
+**API**
+* [fetch](fetch.md)
+* [headers_request](headers_request.md)
 
 **The Browser Object Model (BOM)**
 * [window](window.md)

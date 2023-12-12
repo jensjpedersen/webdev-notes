@@ -17,6 +17,7 @@
 * [html_table](html_table.md)
 * [html_dropdown](html_dropdown.md)
 * [html_events](html_events.md)
+* [semantics](semantics.md)
 
 **Forms**
 * [form](form.md)
@@ -26,6 +27,7 @@
 
 **Tags**
 * [video](video.md)
+* [audio](audio.md)
 * [links](links.md)
 * [images](images.md)
 
