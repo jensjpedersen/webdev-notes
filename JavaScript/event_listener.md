@@ -57,6 +57,10 @@ document.addEventListener("keydown", function(e) {
     
 ```
 
+# Remove event Listener
+* old event listeners is not overwritten by new event listeners. To Remove an event listener, use: 
+`removeEventListener()` 
+
 
 # Common events
 * list of alle dom events: [HTML DOM Event Object](https://www.w3schools.com/jsref/dom_obj_event.asp)
@@ -68,6 +72,23 @@ document.addEventListener("keydown", function(e) {
 * Load Event - Triggered when a resource and its dependent resources have finished loading.
 
 
-# Remove event Listener
-* old event listeners is not overwritten by new event listeners. To Remove an event listener, use: 
-`removeEventListener()` 
+## Change event
+The change event is fired for <input>, <select>, and <textarea> elements when
+the user modifies the element's value. Unlike the input event, the change event
+is not necessarily fired for each alteration to an element's value.
+
+
+## Text input
+* fires each time the user types a character
+
+# Examples
+
+## Radio buttons
+* Use `change`  event and `.checked` to get the value of a radio button
+```javascript
+radioBtn1.addEventListener('change', () => {
+    console.log(radioBtn1.checked);
+});
+```
+
+

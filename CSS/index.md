@@ -17,6 +17,7 @@
 * [display](display.md)
 
 * [css_font](css_font.md)
+* [font_face](font_face.md)
 * [size](size.md)
 * [css_effects](css_effects.md)
 * [css_sudo_classes](css_sudo_classes.md) - special state of element

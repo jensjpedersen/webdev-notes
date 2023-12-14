@@ -1,4 +1,15 @@
 
+# Conditionals
+## Falsy values: 
+* false
+* 0
+* ''
+* null
+* undefined
+* NaN
+
+## Truthy values:
+* [] - empty array
 
 # == Vs ===
 * == - converts the variable values to the same type before performing

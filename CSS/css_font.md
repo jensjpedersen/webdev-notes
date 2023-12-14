@@ -42,7 +42,8 @@ h1.c {font-family: "Trirong", serif;}
 
 
 
-## Attributes
+
+## Font-weight
 * normal - Defines normal characters. This is default	
 * bold - Defines thick characters	
 * bolder - Defines thicker characters	

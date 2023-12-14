@@ -20,10 +20,12 @@ such as: text fields, checkboxes, radio buttons, submit buttons, etc.
 --------------------------------------------------
 
 # Input elements
+* **Input element does not have innerHTML property. It has a value property instead.**
 * **text** is the default value if the type attribute is not specified
 
 
 ## Input types
+
 **types**
 * `<input type="reset">`  - Displays a reset button (for resetting the form)
 * `<input type="date" name="date">` - Displays a date input field

@@ -13,6 +13,14 @@
 * [loops](loops.md)
 * [regex](regex.md)
 
+**Handle input**
+* [form](form.md)
+* [input_field](input_field.md)
+
+**Storage**
+* [local_storage](local_storage.md)
+* [json](json.md)
+
 **Node**
 * [node_read_file](node_read_file.md)
 * [service](service.md)

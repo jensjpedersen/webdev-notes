@@ -1,5 +1,7 @@
 
 
+# Getting started with Tailwind
+[Installation - Tailwind CSS](https://tailwindcss.com/docs/installation)
 
 # Tailwind
 Cons: 
