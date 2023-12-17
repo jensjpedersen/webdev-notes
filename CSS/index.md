@@ -33,7 +33,8 @@
 * [animation](animation.md)
 * [background](background.md)
 
-**Dynamic design**
+**Responsive design**
+* [viewport](viewport.md)
 * [media_queries](media_queries.md)
 * [clamp](clamp.md)
 
@@ -46,6 +47,7 @@
 * [colors](colors.md)
 * [tailwind](tailwind.md)
 * [scss](scss.md)
+* [scss_trix](scss_trix.md)
 * [scss_compiler](scss_compiler.md)
 * [scss_structure](scss_structure.md)
 * [scss_mixins](scss_mixins.md)
