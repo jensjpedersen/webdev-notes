@@ -12,6 +12,7 @@
 * [anonymous_functions](anonymous_functions.md)
 * [loops](loops.md)
 * [regex](regex.md)
+* [error_handeling](error_handeling.md)
 
 **Handle input**
 * [form](form.md)
@@ -68,8 +69,13 @@
 * [spread_operator](spread_operator.md)
 
 **API**
+* [asyncronous_programming](asyncronous_programming.md)
 * [fetch](fetch.md)
+* [http_request](http_request.md)
+* [urls](urls.md)
 * [headers_request](headers_request.md)
+* [promise](promise.md) 
+* [response](response.md)
 
 **The Browser Object Model (BOM)**
 * [window](window.md)
