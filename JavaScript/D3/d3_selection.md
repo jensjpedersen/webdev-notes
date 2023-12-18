@@ -5,7 +5,9 @@
 
 
 # Select
-* Metod chaning is a common pattern in D3 where you apply one or more methods to an element one after the other.
+* The select method allows you to select an element from the DOM and apply data to it.
+* Metod chaning is a common pattern in D3 where you apply one or more methods
+  to an element one after the other.
 
 
 * select body 
@@ -37,4 +39,5 @@ svg.attr('height', 600)
 
 
 
+# selectAll
 
