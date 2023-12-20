@@ -3,12 +3,29 @@
 
 * A JavaScript Promise object contains both the producing code and calls to the consuming code:
 
+
+* **"I Promise a Result!"**
+
+"Producing code" is code that can take some time
+
+"Consuming code" is code that must wait for the result
+
+A Promise is a JavaScript object that links producing code and consuming code
+
+**Parameters:**
+
+
 ```javascript
 let myPromise = new Promise(function(myResolve, myReject) {
 // "Producing Code" (May take some time)
 
-  myResolve(); // when successful
-  myReject();  // when error
+  // Define sucess and failure
+  if ( /* successful condition */ ) {
+    myResolve(); // when successful
+  } else {
+    myReject();  // when error
+  }
+  
 });
 
 // "Consuming Code" (Must wait for a fulfilled Promise)

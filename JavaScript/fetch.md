@@ -6,7 +6,7 @@
 
 
 * Can not console log data outside of fetch. Need to do it inside fetch
-* Else will get promise pending - console log does not know when data is
+* [ ] Else will get promise pending - console log does not know when data is
   available (syncronious code).
 
 **Returns:**

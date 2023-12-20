@@ -1,7 +1,7 @@
 # Wiki  
 [Data Visualization with D3 – Full Course for Beginners 2022 - YouTube](https://www.youtube.com/watch?v=xkBheRZTkaw)
 * 20 hours
-* continue from ep2 4:03
+* 4:36 - symbols
 
 **Lectures**
 * [visualization_inspiration](visualization_inspiration.md)
@@ -12,14 +12,26 @@
 
 **Wiki**
 * [svg](svg.md)
+* [svg_group](svg_group.md)
 * [svg_mask](svg_mask.md)
 * [d3_selection](d3_selection.md) - library for DOM manipulation
 * [creating_svg](creating_svg.md)
+* [attr](attr.md)
+* [style](style.md)
+* append
+
+**Methods**
+* import_d3
 * [join](join.md)
+* [range](range.md)
+
+**Modules**
+* [d3_shape](d3_shape.md)
 
 
 **Resources**
 * Fantastic tutorial - [Create With Data](https://www.d3indepth.com/)
+* [Using D3.js](http://using-d3js.com/index.html)
 
 
 

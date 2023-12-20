@@ -13,6 +13,7 @@
 * [loops](loops.md)
 * [regex](regex.md)
 * [error_handeling](error_handeling.md)
+* [array_from](array_from.md)
 
 **Handle input**
 * [form](form.md)
