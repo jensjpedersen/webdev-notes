@@ -29,7 +29,7 @@ hello = () => "Hello World!";
 hello = val => "Hello " + val;
 ```
 
-# Return object from arrow function
+# Problem: Return object from arrow function
 * problem: object literal is interpreted as a block of code.
 ```javascript
 let getBook = (id) => {id: id, name: 'Harry Potter'};

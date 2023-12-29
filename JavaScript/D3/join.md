@@ -1,4 +1,11 @@
 
+**Questions**
+* join method combines enter and update selection: 
+    * However - Constant values is updated on each iteration, since we
+      don't have a separate enter selection. What is the computational cost of
+      this? 
+    * Probably: only `.append(element)`  = `.join(element)`  - is part of the
+      enter selection.
 
 
 # Adding Data with Join 
@@ -62,5 +69,63 @@ svg.selectAll("rect").data(rect_array)
     .attr("fill", "red")
 
 ```
+
+# Enter
+
+
+TODO: checkout enter on join
+
+
+
+## Exampel - New join() method
+**Join method = Merge - Enter and Update slection**
+* Same as merge selection - but in one go
+
+* Have removed `append("circle")` 
+* Use `.join("circle")` instead 
+```javascript
+
+let circles = svg.selectAll("circle").data(data); 
+
+circles
+    .join("circle")
+    .attr("r", 5)
+    .style("fill", "#69b3a2")
+    .attr("cx", d => d.x  )
+    .attr("cy", d => d.y * Math.sin(t/20))
+
+```
+
+
+### Full animation example
+
+```javascript
+const svg = d3.select("body").append("svg")
+    .style("background-color", "gray")
+    .attr("width", "100vw")
+    .attr("height", "100vh")
+
+
+const data = d3.range(20).map( d => ({x: d*20, y: d**2}) );
+
+let t = 0; 
+setInterval(() => {
+
+    let circles = svg.selectAll("circle").data(data); 
+
+    circles
+        .join("circle")
+        .attr("r", 5)
+        .style("fill", "#69b3a2")
+        .attr("cx", d => d.x  )
+        .attr("cy", d => d.y * Math.sin(t/20))
+
+    t++; 
+    console.log(t);
+
+
+}, 100)
+```
+
 
 

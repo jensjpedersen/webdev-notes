@@ -14,6 +14,7 @@
 * [regex](regex.md)
 * [error_handeling](error_handeling.md)
 * [array_from](array_from.md)
+* [import](import.md)
 
 **Handle input**
 * [form](form.md)
@@ -47,7 +48,7 @@
 * find
 * findIndex
 * [findLastIndex](findLastIndex.md)
-* sort
+* [sort](sort.md)
 
 **DOM**
 * [dom_manipulation](dom_manipulation.md)
@@ -56,6 +57,7 @@
 * [dom_get_element](dom_get_element.md)
 * [dom_events](dom_events.md)
 * [dom_css_classes](dom_css_classes.md)
+* [getComputedStyle](getComputedStyle.md) - get css class
 
 **Types**
 * [types](types.md)
@@ -64,12 +66,14 @@
 * [arrays](arrays.md)
 * [objects](objects.md)
 * [dates](dates.md)
+* [set](set.md)
 
 **Operators**
 * [typeof](typeof.md)
 * [spread_operator](spread_operator.md)
 
 **API**
+* [JSONPlaceholder - Guide](http://jsonplaceholder.typicode.com/guide/) - Fake Online REST API for Testing and Prototyping
 * [asyncronous_programming](asyncronous_programming.md)
 * [fetch](fetch.md)
 * [http_request](http_request.md)
@@ -77,6 +81,10 @@
 * [headers_request](headers_request.md)
 * [promise](promise.md) 
 * [response](response.md)
+
+**Testing**
+* [test_type](test_type.md)
+* [test_objects](test_objects.md)
 
 **The Browser Object Model (BOM)**
 * [window](window.md)
