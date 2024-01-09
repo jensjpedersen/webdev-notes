@@ -10,9 +10,10 @@
 * <Routes> - Used to define the routes of the app. It should be used inside
   <BrowserRouter>. Contains a list of <Route> components.
 * <Route> - defines a single route:
-    * special props: *, index
+    * special props: * , index
 
 
+* <Switch/> - Replaced by <Routes/>
 
 ## Installation
 ```bash
