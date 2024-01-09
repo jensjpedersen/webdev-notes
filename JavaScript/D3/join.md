@@ -1,6 +1,6 @@
 
 **Questions**
-* join method combines enter and update selection: 
+* join method combines enter, update and exit selection: 
     * However - Constant values is updated on each iteration, since we
       don't have a separate enter selection. What is the computational cost of
       this? 
@@ -78,7 +78,7 @@ TODO: checkout enter on join
 
 
 ## Exampel - New join() method
-**Join method = Merge - Enter and Update slection**
+**Join method = Enter, Update and exit slection**
 * Same as merge selection - but in one go
 
 * Have removed `append("circle")` 

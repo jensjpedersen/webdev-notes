@@ -1,5 +1,8 @@
 
+
 # jsx syntax
+* jsx - javascript xml
+* follows XML rules
 
 
 ```javascript

@@ -1,7 +1,10 @@
 # Wiki  
 [Data Visualization with D3 – Full Course for Beginners 2022 - YouTube](https://www.youtube.com/watch?v=xkBheRZTkaw)
 * 20 hours
-* 6:26 - symbols
+* 7:37
+
+TODO: 
+* checkout exit selection
 
 **Lectures**
 * [visualization_inspiration](visualization_inspiration.md)
@@ -27,9 +30,15 @@
 
 **Methods**
 * [import_d3](import_d3.md)
-* [join](join.md)
 * [data_join](data_join.md)
 * [range](range.md)
+
+**Selections**
+* [join](join.md)
+* enter_selection
+* update_selection
+* [exit_selection](exit_selection.md)
+* [merge_selection](merge_selection.md)
 
 **Modules**
 * [modules](modules.md)

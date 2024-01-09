@@ -68,6 +68,30 @@ Every module can have two different types of export, named export and default
 export. You can have multiple named exports per module but only one default
 export. Each type corresponds to one of the above syntax.
 
+## Named export 
+* is imported with the same name as the corresponding variable.
+* Can import multiple named exports in one import statement. 
+
+```javascript
+import { myFunction, myVariable } from "./data.js"
+```
+
+## Default export
+* is imported with any name you want.
+* Can only import one default export in one import statement. 
+* If not using {}, it is a default export.
+
+```javascript
+import myFunction from "./data.js"
+```
+
+
+## Combine named and default export
+```javascript
+import myFunction, { myVariable, myVariable2 } from "./data.js"
+```
+
+
 # Import all exports from a file
 ```javascript
 import * as data from "./data.js"
